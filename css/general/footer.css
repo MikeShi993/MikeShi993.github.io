@@ -1,0 +1,19 @@
+.footerInfo {
+    font-family: 'Spectral', serif;
+}
+
+#footerName {
+    padding-top: 15px;
+    margin-bottom: 0px;
+    font-size: 15px;
+}
+
+#footerName a p {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 17px;
+}
+
+#footerName a p:hover {
+    color: black;
+}
+

@@ -1,0 +1,110 @@
+
+
+#heroImage {
+    background-image: url(/photos/photos_MichelleCheng/Winter%20Steveston.jpg);
+}
+
+/*------------ Photos and Descriptions --------*/
+
+.photoBox {
+    padding-top: 200px;
+    padding-bottom: 100px;
+    /*border: 1px solid black;*/
+}
+
+#firstBox{
+    padding-top: 170px;
+}
+
+.horizontalPicture,
+.verticalPicture {
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.29);
+}
+
+.verticalPicture {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: auto;
+    height: 100%;
+}
+
+.textBoxHorizontal {
+    position: center;
+    margin-top: 35%;
+}
+
+.textBoxVertical {
+    position: center;
+    margin-top: 50%;
+}
+
+.pictureTitle,
+.pictureDescription {
+    text-align: center;
+    position: relative;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    text-align: center;
+}
+
+.pictureTitle {
+    font-size: 30px;
+}
+
+.pictureDescription {
+    margin-top: 10%;
+    top: 50%;
+}
+
+/*----------- side Navigation Dots ---------*/
+
+.navDots {
+    position: fixed;
+    top: 40%;
+    left: 92%;
+    width: 50px;
+    z-index: 9999;
+    list-style-type: none;
+}
+
+.navDots ul {
+    position: relative;
+    padding: 3px;
+    padding-left: 50%;
+}
+
+.navDots ul li {
+    position: relative;
+    padding-bottom: 20px;
+    padding-left: 50%;
+    color: black;
+}
+
+.navDots a {
+    display: block;
+    width: 8px;
+    height: 8px;
+    text-indent: -9999px;
+    border-radius: 50%;
+    border: 2px solid;
+    border-color: rgba(0, 0, 0, 0.37);
+    text-decoration: none;
+}
+
+.navDots a:hover {
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.4);
+    text-decoration: none;
+}
+
+.navDots a.active {
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.4);
+    text-decoration: none;
+}
+
+.navDotCheck {
+    background-color: rgba(0, 0, 0, 0.4);
+}

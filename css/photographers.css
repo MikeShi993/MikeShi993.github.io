@@ -1,0 +1,79 @@
+#quote {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 20px;
+}
+
+#quoteBlock {
+    padding-top: 50px;
+    padding-bottom: 75px;
+}
+
+#quote h1{
+    font-size: 3vw;
+}
+
+#quote p{
+    font-size: 1.25vw;
+}
+
+/*-----photographers ------*/
+
+.photographerRow {
+    margin-bottom: 75px;
+}
+
+.photographerTemplate {
+    float: left;
+    width: 26.6%;
+    height: 60%;
+    border: 1px solid rgba(0, 0, 0, 0.60);
+}
+
+.spacer {
+    float: left;
+    width: 10%;
+    height: 375px;
+}
+
+.photographerTemplate img {
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 8%;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 1%;
+}
+
+.nameContainer {
+    text-align: center;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
+.nameContainer2 {
+    margin-top: 8%;
+    display: inline-block;
+}
+
+.nameContainer2 a {
+    color: black;
+    text-decoration: none;
+}
+
+.nameContainer h1 {
+    font-size: 2.5vw;
+    padding: 5px 15px 5px 15px;
+    margin: 0px;
+}
+
+.nameContainer h1:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.popOut {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+.You {
+    border: 1px dashed rgba(0, 0, 0, 0.60);
+}

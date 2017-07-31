@@ -1,0 +1,39 @@
+#heroImage {
+    background-image: url(/photos/photos_General/homePage.jpg);
+}
+
+#quote {
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 20px;
+}
+
+/*------learn more-----*/
+
+#learnContainer {
+    text-align: center;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 50px;
+}
+
+#learnContainer2 {
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#learnContainer2 a {
+    color: black;
+    text-decoration: none;
+}
+
+#learnContainer h1 {
+    font-size: 20px;
+    padding: 5px 25px 5px 25px;
+    margin: 0px;
+}
+
+#learnContainer h1:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}

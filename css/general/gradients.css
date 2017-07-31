@@ -1,0 +1,30 @@
+.gradient1 {
+    height: 10px;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), white);
+    width: 93%;
+    margin-left: 3.5%;
+}
+
+.gradient2 {
+    height: 10px;
+    background: linear-gradient(white, rgba(0, 0, 0, 0.1));
+}
+
+.gradient3 {
+    height: 10px;
+    background: linear-gradient(rgba(0, 0, 0, 0.15), white);
+    margin-bottom: 15px;
+}
+
+.gradient4 {
+    height: 10px;
+    background: linear-gradient(white, rgba(0, 0, 0, 0.3));
+    width: 93%;
+    margin-left: 3.5%;
+}
+
+.gradientNav {
+    height: 10px;
+    background: linear-gradient(rgba(0, 0, 0, 0.15), white);
+    margin-bottom: 15px;
+}

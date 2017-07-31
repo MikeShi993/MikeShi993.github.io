@@ -1,0 +1,54 @@
+/*-------------parallax-----------*/
+
+.parallax {
+    height: 100%;
+    width: 95%;
+    margin-left: 2.5%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+
+/*-------------large banner -------------------------*/
+
+#heroImage {
+    opacity: 0.9;
+    background-position: center -100px;
+    box-shadow: 0 0px 20px rgba(0, 0, 0, 0.8);
+}
+
+#heroText {
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.22);
+    font-family: 'Spectral', serif;
+    border: 2px solid white;
+}
+
+#heroText h1 {
+    font-size: 80px;
+    margin-bottom: -10px;
+}
+
+#heroText p {
+    font-size: 20px;
+}
+
+.heroPicTitle {
+    text-align: center;
+    position: absolute;
+    top: 100%;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 2%;
+}
