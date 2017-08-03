@@ -4,6 +4,17 @@
     background-image: url(/photos/photos_EmilyChow/AngelsLanding.JPG);
 }
 
+.heroPicTitle {
+    text-align: center;
+    position: absolute;
+    top: 100%;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 2%;
+    font-family: 'Raleway', sans-serif;
+}
+
 /*-----General Large Image ------*/
 
 .imageText {
@@ -12,6 +23,7 @@
     top: 70%;
     left: 5%;
     color: #ffffff;
+    font-family: 'Raleway', sans-serif;
 }
 
 .imageText h1 {

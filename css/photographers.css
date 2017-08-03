@@ -66,9 +66,9 @@
     margin: 0px;
 }
 
-.nameContainer h1:hover {
+/* .nameContainer h1:hover {
     background-color: rgba(0, 0, 0, 0.1);
-}
+}*/
 
 .popOut {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);

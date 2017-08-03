@@ -30,6 +30,7 @@
     border: 1px solid white;
     padding-left: 20px;
     padding-right: 20px;
+    font-family: 'Raleway', sans-serif;
 }
 
 #heroText h1 {
@@ -38,14 +39,4 @@
 
 #heroText p {
     font-size: 20px;
-}
-
-.heroPicTitle {
-    text-align: center;
-    position: absolute;
-    top: 100%;
-    color: #ffffff;
-    font-size: 20px;
-    text-align: left;
-    padding-left: 2%;
 }
