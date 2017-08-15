@@ -12,3 +12,7 @@ Additional Notes:
 Will continue adding pages as friends want me to create pages for them.
 Format may begin to look similiar since the minimalistic look is very popular.
 Still trying to learn something new in webdev with each page hopefully!
+
+Known Issues:
+Screen Sizes. I'm using bootstrap and will begin making websites mobile friendly.
+Appearence differs for some divs between mac and windows laptop. Harder to diagnose becase I don't own a mac but I'll work on it.
