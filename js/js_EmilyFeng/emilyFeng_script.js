@@ -16,9 +16,11 @@ $(document).ready(function () {
     }, function () {
         $(this).css('cursor', 'default');
     });
-    $(".backToTop").click(function () {
-        $('html,body').animate({
+    
+    $('.backToTop').click(function () {
+        $("html, body").animate({
             scrollTop: 0
-        }, 'slow');
+        }, 600);
+        return false;
     });
 });

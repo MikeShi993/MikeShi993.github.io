@@ -2,7 +2,7 @@
 
 $(document).ready(function () {
     /*-------------------fadeIn for navDots -----------*/
-    
+
     divFade(".navDots", 850, 500);
 
     /*---------------click to scroll for navDots --------*/
